@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Agdasima:wght@700&display=swap" rel="stylesheet"');
+body{
+    background-color: bisque;
+    font-family: 'Agdasima', sans-serif;
+    font-size: 14px;
+    }
+
+h1{
+    color:azure;
+    margin-left: 20px;
+}
+
+p{
+    color:blanchedalmond;
+    margin-left: 20px;
+}
